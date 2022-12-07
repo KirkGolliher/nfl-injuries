@@ -17,7 +17,7 @@ I have chosen this topic because injuries are so impactful in sports. I’ve alw
 ## Data Sources
 
 - [Pro Sports Transactions](https://www.prosportstransactions.com/football/Search/Search.php) was used for gathering the players and their specific injuries.
-- [Advanced Sports Analytics](https://www.advancedsportsanalytics.com/nfl-raw-data) was used to obtain player's game stats for the past three seasons (2018-2022).
+- [Advanced Sports Analytics](https://www.advancedsportsanalytics.com/nfl-raw-data) was used to obtain player's game stats for the past three seasons (2019-2022).
 
 ## The Process
 
