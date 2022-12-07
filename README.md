@@ -8,7 +8,7 @@ I have chosen this topic because injuries are so impactful in sports. I’ve alw
 
 ## Data Questions
 
-- Are players as productive once they recover from a significant injury such as torn acl, foot/ankle, concussions, etc? 
+- Are players as productive once they recover from a significant injury such as torn acl, ankle, concussions, shoulder, etc? 
 - Do certain factors such as, recovery time or a particular injury correlate to possible reinjury?
 - Is field type a major factor in certain injuries? (grass vs. turf)
 - What are the most common injuries through the years in the NFL?
