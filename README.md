@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- Motivation
-- Data Questions
-- Data Sources
-- The Process
-- Final Product
+- [Motivation](https://github.com/KirkGolliher/nfl-injuries#Motivation)
+- [Data Questions](https://github.com/KirkGolliher/nfl-injuries#Data-Questions)
+- [Data Sources](https://github.com/KirkGolliher/nfl-injuries#Data-Sources)
+- [The Process](https://github.com/KirkGolliher/nfl-injuries#The-Process)
+- [Final Product](https://github.com/KirkGolliher/nfl-injuries#Final-Product)
 
 ## Motivation
 
