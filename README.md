@@ -26,18 +26,23 @@ I have chosen this topic because injuries are so impactful in sports. I’ve alw
 - [Advanced Sports Analytics](https://www.advancedsportsanalytics.com/nfl-raw-data) was used to obtain player's game stats for the past three seasons (2019-2022).
 
 ## The Process
-
-#### Data Acquisition
-
+<details>
+<summary>Data Acquisition</summary>
+<br>
 I found two sources of data for this project. My first source (Pro Sports Transactions) provided me with the injury reports for players. This showed me the date of the report, player name, team, and the injury. This is what I used to find the players, and it allowed me to search the specific injury. After searching for the specific injury, I scraped the website to obtain the data. I had to do this three total times and each time had 10+ pages to be scraped. 
-
+<br><br>
 The second source (Advanced Sports Analytics) was a CSV file that contained raw NFL data. This source provided me with information for each player's statistics in each game. The data started at the beginning of the 2019 season. The challenge with this source was to clean it and figure out exactly what to use from it since I could only use two season's worth of data.
+</details>
 
-#### Data Cleaning/Organizing
+<details>
+<summary>Data Cleaning/Organizing</summary>
+<br>
+</details>
 
-
-
-#### Creating Dashboard
-
+<details>
+<summary>Creating Dashboard</summary>
+<br>
+</details>
 
 ## Final Product
+To view the final project through Tableau, click here (updated link will be up soon!)
