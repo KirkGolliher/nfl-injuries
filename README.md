@@ -47,4 +47,4 @@ I decided to go with Tableau for this project. It was simple getting all of my d
 </details>
 
 ## Final Project Link
-To view the final project through Tableau, click here (updated link will be up soon!)
+To view the final project through Tableau, click [here](https://public.tableau.com/app/profile/kirk.golliher/viz/injuries_16728599986190/Story1)
