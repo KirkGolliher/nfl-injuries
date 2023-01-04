@@ -6,7 +6,7 @@
 - [Data Questions](https://github.com/KirkGolliher/nfl-injuries#Data-Questions)
 - [Data Sources](https://github.com/KirkGolliher/nfl-injuries#Data-Sources)
 - [The Process](https://github.com/KirkGolliher/nfl-injuries#The-Process)
-- [Final Product](https://github.com/KirkGolliher/nfl-injuries#Final-Product)
+- [Final Project Link](https://github.com/KirkGolliher/nfl-injuries#Final-Project-Link)
 
 ## Motivation
 
@@ -37,12 +37,14 @@ The second source (Advanced Sports Analytics) was a CSV file that contained raw 
 <details>
 <summary>Data Cleaning/Organizing</summary>
 <br>
+Because of the scraping, I had several dataframes I was working with. I had to figure out how to correctly merge my two data sources together and to get them ready for that. I had to work on datetimes, add new columns, and perform many for loops to get where I needed to be. The biggest challenge in this section is that I went back and forth on the different routes that I wanted to take, but finally settled on what I thought would give me the best chance to succeed. 
 </details>
 
 <details>
 <summary>Creating Dashboard</summary>
 <br>
+I decided to go with Tableau for this project. It was simple getting all of my data loaded and ready to get my visuals going. Trying to figure out the right visuals and getting more variety besides the classic bar chart was a tough challenge in this stage of the project. I had to ensure that my story flowed right and told what I wanted from this. The story component of Tableau came in handy because that allowed me to create all of my slides within one program.
 </details>
 
-## Final Product
+## Final Project Link
 To view the final project through Tableau, click here (updated link will be up soon!)
